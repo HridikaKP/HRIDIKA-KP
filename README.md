@@ -63,6 +63,13 @@ I am an AI Engineer with a strong interest in Machine Learning, Large Language M
 - GitHub
 
 ---
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HridikaKP&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HridikaKP&layout=compact&theme=github_dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=HridikaKP&theme=github-dark)
 
 # 🌟 Featured AI Projects
 
