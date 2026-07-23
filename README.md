@@ -122,7 +122,7 @@ Machine Learning model for predicting employee attrition using classification al
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *linkedin.com/in/hridika-k-p/*
+- 💼 LinkedIn: *https://www.linkedin.com/in/hridika-k-p/*
 - 📧 Email: *hridikaprabhas@gmail.com*
 
 ---
